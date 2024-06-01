@@ -1,4 +1,4 @@
-![Template - Thumbnails GitHub](https://github.com/gleekrj/numero-secreto/assets/14200021/50a85941-bff2-42b6-878b-e5d041e7861b)
+![Projeto Numero Secreto](https://github.com/gleekrj/numero-secreto/assets/14200021/50a85941-bff2-42b6-878b-e5d041e7861b)
 
 # Jogo do Número Secreto
 Este é um jogo em JavaScrit em que através de tentativas e erros, é possível descobrir o número secreto escolhido "randomicamente" pelo computador.
